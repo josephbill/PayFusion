@@ -1,4 +1,4 @@
-package com.ezra.payfusion.ui.theme
+package com.joseph.payfusion.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

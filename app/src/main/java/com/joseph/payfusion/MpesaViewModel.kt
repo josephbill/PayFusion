@@ -1,4 +1,4 @@
-package com.ezra.payfusion
+package com.joseph.payfusion
 
 import android.os.Build
 import androidx.annotation.RequiresApi
@@ -16,8 +16,8 @@ class MpesaViewModel : ViewModel() {
 
     private val api: MpesaApi
 
-    private val consumerKey = "jkXBgjW27IKhblgEVsR5SOfTh6Am0MZ3IWs1xTPIyKgLA70x"
-    private val consumerSecret = "z6WM04Fv88SyG8QeSgtva1GXdNyWPpbOi6vTNuEbuA6aL64l6sqAzxqpePAEXYvG"
+    private val consumerKey = ""
+    private val consumerSecret = ""
 
     init {
         val retrofit = Retrofit.Builder()

@@ -1,4 +1,4 @@
-package com.ezra.payfusion
+package com.joseph.payfusion
 
 import org.junit.Test
 
